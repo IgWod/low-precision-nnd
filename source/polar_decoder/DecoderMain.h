@@ -1,0 +1,4 @@
+#ifndef DECODERMAIN_H
+#define DECODERMAIN_H
+
+#endif //DECODERMAIN_H

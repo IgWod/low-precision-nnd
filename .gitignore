@@ -1,0 +1,9 @@
+# Pipenv
+Pipfile.lock
+
+# PyCharm
+.idea/
+
+# Cmake
+cmake-build-debug/
+cmake-build-release/
