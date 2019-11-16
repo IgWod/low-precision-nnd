@@ -4,13 +4,13 @@ The following code was used to obtain results for the paper: "Low-Precision Neur
 Network Decoding of Polar Codes" published to SPAWC2019. If you use this code please cite us:
 
 ```
-@inproceedings{Wodi1907:Low,
-    author="Igor Wodiany and Antoniu Pop",
-    title="{Low-Precision} Neural Network Decoding of Polar Codes",
-    booktitle="2019 IEEE 20th International Workshop on Signal Processing Advances in
-        Wireless Communications (SPAWC) (IEEE SPAWC 2019)",
-    address="Cannes, France",
-    year=2019
+@inproceedings{wodiany2019low,
+  title={{Low-Precision} Neural Network Decoding of Polar Codes},
+  author={Wodiany, Igor and Pop, Antoniu},
+  booktitle={2019 IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)},
+  pages={1--5},
+  year={2019},
+  organization={IEEE}
 }
 ```
 
