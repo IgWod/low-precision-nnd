@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code please cite us."
+authors:
+- family-names: "Wodiany"
+  given-names: "Igor"
+  orcid: " https://orcid.org/0000-0002-7682-5581"
+- family-names: "Pop"
+  given-names: "Antoniu"
+  orcid: " https://orcid.org/0000-0002-7715-4281"
+title: "Low-Precision Neural Network Decoder"
+version: 1.0.0
+date-released: 2019-06-30
+url: "https://github.com/IgWod/low-precision-nnd"
+preferred-citation:
+  type: conference-paper
+  title: "Low-Precision Neural Network Decoding of Polar Codes"
+  authors:
+  - family-names: "Wodiany"
+    given-names: "Igor"
+    orcid: " https://orcid.org/0000-0002-7682-5581"
+  - family-names: "Pop"
+    given-names: "Antoniu"
+    orcid: " https://orcid.org/0000-0002-7715-4281"
+  start: 1
+  end: 5
+  year: 2019
+  doi: "10.1109/SPAWC.2019.8815542"
+  collection-title: "2019 IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)"

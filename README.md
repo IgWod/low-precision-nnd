@@ -4,13 +4,13 @@ The following code was used to obtain results for the paper: "Low-Precision Neur
 Network Decoding of Polar Codes" published to SPAWC2019. If you use this code please cite us:
 
 ```
-@inproceedings{wodiany2019low,
-  title={{Low-Precision} Neural Network Decoding of Polar Codes},
-  author={Wodiany, Igor and Pop, Antoniu},
-  booktitle={2019 IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)},
-  pages={1--5},
-  year={2019},
-  organization={IEEE}
+@inproceedings{Wodiany_Low-Precision_Neural_Network_2019,
+	title        = {{Low-Precision Neural Network Decoding of Polar Codes}},
+	author       = {Wodiany, Igor and Pop, Antoniu},
+	year         = 2019,
+	booktitle    = {2019 IEEE 20th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)},
+	pages        = {1--5},
+	doi          = {10.1109/SPAWC.2019.8815542}
 }
 ```
 
@@ -77,7 +77,3 @@ The following changes have to be made to the source code to allow testing differ
 * Change weights data types in *DecoderMain.cpp*
 * Enable or disable lut2 clipping in *DenseLayer.h*
 
-# Questions
-
-Since the code is not the highest quality, as getting results fast was far more important
-than everything else, please feel to contact me if you need help with running the code. 
